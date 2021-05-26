@@ -1,0 +1,14 @@
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.deps.json
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.pdb

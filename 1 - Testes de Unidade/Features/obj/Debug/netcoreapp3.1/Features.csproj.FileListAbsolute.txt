@@ -1,0 +1,9 @@
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\1 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb

@@ -1,0 +1,12 @@
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csprojAssemblyReference.cache
+C:\Users\jessica.ambrust\Documents\PDI\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete

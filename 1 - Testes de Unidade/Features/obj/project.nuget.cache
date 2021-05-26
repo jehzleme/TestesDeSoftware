@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VXZ7YVKTjEHSEjznJZzRA3IotCOMOdb+2Dg1x8OpVu6hjw0MbaBd33q/DIWpOkcpJ84Iu44NOBGkJ69QxX3aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.ambrust\\Documents\\PDI\\TestesDeSoftware\\1 - Testes de Unidade\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512",
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
